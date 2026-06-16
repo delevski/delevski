@@ -62,6 +62,21 @@ class OrDelevski:
 | [FastAPI AWS Ingestor](https://github.com/delevski/fastapi-aws-ingestor) | Production-ready JSON ingestion microservice with validation, transformation, and storage to S3 or DynamoDB. | Python, FastAPI, AWS S3, DynamoDB, Docker, Pytest |
 | [ChampionsSport](https://github.com/delevski/ChampionsSport) | Real-time World Cup prediction platform with web and mobile clients, Hebrew RTL support, and Supabase backend. | Next.js, Expo, Supabase, pnpm |
 
+## Latest public projects
+
+<!-- AUTO-PROJECTS:START -->
+| Project | Language | Stars | Activity |
+|---|---:|---:|---|
+| [ShortiGo](https://github.com/delevski/ShortiGo) | Dart | 0 | Updated 2026-06-15 |
+| [gemel](https://github.com/delevski/gemel) | HTML | 0 | Updated 2026-06-08 |
+| [ChampionsSport](https://github.com/delevski/ChampionsSport) | TypeScript | 0 | Updated 2026-05-26 |
+| [ori-showcase](https://github.com/delevski/ori-showcase) | CSS | 0 | Updated 2026-05-19 |
+| [ConflictFlow](https://github.com/delevski/ConflictFlow) | TypeScript | 0 | Updated 2026-03-24 |
+| [LifeBook](https://github.com/delevski/LifeBook) | TypeScript | 0 | Updated 2026-02-23 |
+
+<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-06-16</sub>
+<!-- AUTO-PROJECTS:END -->
+
 ## Tech stack
 
 **Languages**
