@@ -67,14 +67,14 @@ class OrDelevski:
 <!-- AUTO-PROJECTS:START -->
 | Project | Language | Stars | Activity |
 |---|---:|---:|---|
-| [VideoScrubbing](https://github.com/delevski/VideoScrubbing) | Mixed | 0 | Updated 2026-06-30 |
+| [VideoScrubbing](https://github.com/delevski/VideoScrubbing) | CSS | 0 | Updated 2026-06-30 |
 | [ShortiGo](https://github.com/delevski/ShortiGo) | Dart | 0 | Updated 2026-06-28 |
 | [gemel](https://github.com/delevski/gemel) | HTML | 0 | Updated 2026-06-08 |
 | [ChampionsSport](https://github.com/delevski/ChampionsSport) | TypeScript | 0 | Updated 2026-05-26 |
 | [ori-showcase](https://github.com/delevski/ori-showcase) | CSS | 0 | Updated 2026-05-19 |
 | [ConflictFlow](https://github.com/delevski/ConflictFlow) | TypeScript | 0 | Updated 2026-03-24 |
 
-<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-06-30</sub>
+<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-07-01</sub>
 <!-- AUTO-PROJECTS:END -->
 
 ## Tech stack
