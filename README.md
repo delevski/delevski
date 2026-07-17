@@ -67,14 +67,14 @@ class OrDelevski:
 <!-- AUTO-PROJECTS:START -->
 | Project | Language | Stars | Activity |
 |---|---:|---:|---|
-| [profolio-reel](https://github.com/delevski/profolio-reel) | TypeScript | 0 | Updated 2026-07-15 |
+| [profolio-reel](https://github.com/delevski/profolio-reel) | TypeScript | 0 | Updated 2026-07-16 |
 | [gemel](https://github.com/delevski/gemel) | HTML | 0 | Updated 2026-07-10 |
 | [professional-services-template](https://github.com/delevski/professional-services-template) | JavaScript | 0 | Updated 2026-07-05 |
 | [PilatesTemplate](https://github.com/delevski/PilatesTemplate) | JavaScript | 0 | Updated 2026-07-02 |
 | [VideoScrubbing](https://github.com/delevski/VideoScrubbing) | CSS | 0 | Updated 2026-06-30 |
 | [ShortiGo](https://github.com/delevski/ShortiGo) | Dart | 0 | Updated 2026-06-28 |
 
-<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-07-16</sub>
+<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-07-17</sub>
 <!-- AUTO-PROJECTS:END -->
 
 ## Tech stack
