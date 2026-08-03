@@ -74,7 +74,7 @@ class OrDelevski:
 | [VideoScrubbing](https://github.com/delevski/VideoScrubbing) | CSS | 0 | Updated 2026-06-30 |
 | [ShortiGo](https://github.com/delevski/ShortiGo) | Dart | 0 | Updated 2026-06-28 |
 
-<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-08-02</sub>
+<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-08-03</sub>
 <!-- AUTO-PROJECTS:END -->
 
 ## Tech stack
