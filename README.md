@@ -67,14 +67,14 @@ class OrDelevski:
 <!-- AUTO-PROJECTS:START -->
 | Project | Language | Stars | Activity |
 |---|---:|---:|---|
-| [protfolio](https://github.com/delevski/protfolio) | TypeScript | 1 | Updated 2026-09-03 |
-| [profolio-reel](https://github.com/delevski/profolio-reel) | TypeScript | 0 | Updated 2026-08-13 |
-| [ORA-Test-Build-UI](https://github.com/delevski/ORA-Test-Build-UI) | TypeScript | 0 | Updated 2026-08-10 |
-| [gemel](https://github.com/delevski/gemel) | HTML | 0 | Updated 2026-08-09 |
-| [professional-services-template](https://github.com/delevski/professional-services-template) | JavaScript | 0 | Updated 2026-07-05 |
-| [PilatesTemplate](https://github.com/delevski/PilatesTemplate) | JavaScript | 0 | Updated 2026-07-02 |
+| [protfolio](https://github.com/delevski/protfolio) | TypeScript | 1 | Updated 2026-09-04 |
+| [meme-generator](https://github.com/delevski/meme-generator) | CSS | 0 | Updated 2026-09-04 |
+| [feed-news](https://github.com/delevski/feed-news) | Python | 0 | Updated 2026-09-04 |
+| [custome-yad2](https://github.com/delevski/custome-yad2) | TypeScript | 0 | Updated 2026-09-04 |
+| [animated-web](https://github.com/delevski/animated-web) | HTML | 0 | Updated 2026-09-04 |
+| [CRM-PRO-VB](https://github.com/delevski/CRM-PRO-VB) | JavaScript | 0 | Updated 2026-09-04 |
 
-<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-09-04</sub>
+<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-09-05</sub>
 <!-- AUTO-PROJECTS:END -->
 
 ## Tech stack
