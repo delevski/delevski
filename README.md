@@ -67,14 +67,14 @@ class OrDelevski:
 <!-- AUTO-PROJECTS:START -->
 | Project | Language | Stars | Activity |
 |---|---:|---:|---|
+| [ChampionsSport](https://github.com/delevski/ChampionsSport) | TypeScript | 0 | Updated 2026-09-05 |
 | [protfolio](https://github.com/delevski/protfolio) | TypeScript | 1 | Updated 2026-09-04 |
 | [meme-generator](https://github.com/delevski/meme-generator) | CSS | 0 | Updated 2026-09-04 |
 | [feed-news](https://github.com/delevski/feed-news) | Python | 0 | Updated 2026-09-04 |
 | [custome-yad2](https://github.com/delevski/custome-yad2) | TypeScript | 0 | Updated 2026-09-04 |
 | [animated-web](https://github.com/delevski/animated-web) | HTML | 0 | Updated 2026-09-04 |
-| [CRM-PRO-VB](https://github.com/delevski/CRM-PRO-VB) | JavaScript | 0 | Updated 2026-09-04 |
 
-<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-09-05</sub>
+<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-09-06</sub>
 <!-- AUTO-PROJECTS:END -->
 
 ## Tech stack
