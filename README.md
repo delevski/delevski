@@ -67,14 +67,14 @@ class OrDelevski:
 <!-- AUTO-PROJECTS:START -->
 | Project | Language | Stars | Activity |
 |---|---:|---:|---|
+| [rosh-hashana-shopping](https://github.com/delevski/rosh-hashana-shopping) | HTML | 0 | Updated 2026-09-09 |
+| [locksmithruslan-redesign](https://github.com/delevski/locksmithruslan-redesign) | HTML | 0 | Updated 2026-09-08 |
 | [chefli](https://github.com/delevski/chefli) | Dart | 0 | Updated 2026-09-07 |
 | [graphify-kb-maps](https://github.com/delevski/graphify-kb-maps) | HTML | 0 | Updated 2026-09-07 |
 | [gemel](https://github.com/delevski/gemel) | HTML | 0 | Updated 2026-09-06 |
 | [chefli_agents](https://github.com/delevski/chefli_agents) | Python | 0 | Updated 2026-09-06 |
-| [ChampionsSport](https://github.com/delevski/ChampionsSport) | TypeScript | 0 | Updated 2026-09-05 |
-| [protfolio](https://github.com/delevski/protfolio) | TypeScript | 1 | Updated 2026-09-04 |
 
-<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-09-08</sub>
+<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-09-09</sub>
 <!-- AUTO-PROJECTS:END -->
 
 ## Tech stack
