@@ -67,14 +67,14 @@ class OrDelevski:
 <!-- AUTO-PROJECTS:START -->
 | Project | Language | Stars | Activity |
 |---|---:|---:|---|
+| [profolio-reel](https://github.com/delevski/profolio-reel) | TypeScript | 0 | Updated 2026-10-04 |
 | [mira-star-book](https://github.com/delevski/mira-star-book) | TypeScript | 0 | Updated 2026-09-30 |
 | [chefli_agents](https://github.com/delevski/chefli_agents) | Python | 0 | Updated 2026-09-23 |
-| [profolio-reel](https://github.com/delevski/profolio-reel) | TypeScript | 0 | Updated 2026-09-17 |
 | [locksmithruslan-redesign](https://github.com/delevski/locksmithruslan-redesign) | HTML | 0 | Updated 2026-09-15 |
 | [ShortiGo](https://github.com/delevski/ShortiGo) | Dart | 3 | Updated 2026-09-11 |
 | [rosh-hashana-shopping](https://github.com/delevski/rosh-hashana-shopping) | HTML | 0 | Updated 2026-09-09 |
 
-<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-10-03</sub>
+<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-10-04</sub>
 <!-- AUTO-PROJECTS:END -->
 
 ## Tech stack
