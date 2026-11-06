@@ -67,14 +67,14 @@ class OrDelevski:
 <!-- AUTO-PROJECTS:START -->
 | Project | Language | Stars | Activity |
 |---|---:|---:|---|
-| [profolio-reel](https://github.com/delevski/profolio-reel) | TypeScript | 0 | Updated 2026-11-05 |
-| [agent-office-demo](https://github.com/delevski/agent-office-demo) | JavaScript | 1 | Updated 2026-11-05 |
-| [shay-hair-treatment](https://github.com/delevski/shay-hair-treatment) | HTML | 0 | Updated 2026-10-11 |
-| [mira-star-book](https://github.com/delevski/mira-star-book) | TypeScript | 0 | Updated 2026-09-30 |
-| [chefli_agents](https://github.com/delevski/chefli_agents) | Python | 0 | Updated 2026-09-23 |
-| [locksmithruslan-redesign](https://github.com/delevski/locksmithruslan-redesign) | HTML | 0 | Updated 2026-09-15 |
+| [profolio-reel](https://github.com/delevski/profolio-reel) | TypeScript | 0 | Updated 2026-11-06 |
+| [professional-services-template](https://github.com/delevski/professional-services-template) | JavaScript | 0 | Updated 2026-11-06 |
+| [PilatesTemplate](https://github.com/delevski/PilatesTemplate) | JavaScript | 0 | Updated 2026-11-06 |
+| [ORA-Test-Build-UI](https://github.com/delevski/ORA-Test-Build-UI) | TypeScript | 0 | Updated 2026-11-06 |
+| [ShortiGo](https://github.com/delevski/ShortiGo) | Dart | 3 | Updated 2026-11-06 |
+| [chefli](https://github.com/delevski/chefli) | Dart | 0 | Updated 2026-11-06 |
 
-<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-11-05</sub>
+<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-11-06</sub>
 <!-- AUTO-PROJECTS:END -->
 
 ## Tech stack
