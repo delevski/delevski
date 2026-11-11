@@ -67,14 +67,14 @@ class OrDelevski:
 <!-- AUTO-PROJECTS:START -->
 | Project | Language | Stars | Activity |
 |---|---:|---:|---|
-| [profolio-reel](https://github.com/delevski/profolio-reel) | TypeScript | 0 | Updated 2026-11-10 |
+| [profolio-reel](https://github.com/delevski/profolio-reel) | TypeScript | 0 | Updated 2026-11-11 |
+| [protfolio](https://github.com/delevski/protfolio) | TypeScript | 1 | Updated 2026-11-11 |
 | [agent-office-demo](https://github.com/delevski/agent-office-demo) | JavaScript | 1 | Updated 2026-11-10 |
 | [ShortiGo](https://github.com/delevski/ShortiGo) | Dart | 3 | Updated 2026-11-09 |
 | [professional-services-template](https://github.com/delevski/professional-services-template) | JavaScript | 0 | Updated 2026-11-06 |
 | [PilatesTemplate](https://github.com/delevski/PilatesTemplate) | JavaScript | 0 | Updated 2026-11-06 |
-| [ORA-Test-Build-UI](https://github.com/delevski/ORA-Test-Build-UI) | TypeScript | 0 | Updated 2026-11-06 |
 
-<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-11-10</sub>
+<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-11-11</sub>
 <!-- AUTO-PROJECTS:END -->
 
 ## Tech stack
