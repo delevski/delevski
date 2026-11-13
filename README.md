@@ -67,14 +67,14 @@ class OrDelevski:
 <!-- AUTO-PROJECTS:START -->
 | Project | Language | Stars | Activity |
 |---|---:|---:|---|
-| [profolio-reel](https://github.com/delevski/profolio-reel) | TypeScript | 0 | Updated 2026-11-12 |
+| [profolio-reel](https://github.com/delevski/profolio-reel) | TypeScript | 0 | Updated 2026-11-13 |
+| [chefli](https://github.com/delevski/chefli) | Dart | 0 | Updated 2026-11-13 |
 | [mcp-tab-timeline](https://github.com/delevski/mcp-tab-timeline) | JavaScript | 0 | Updated 2026-11-12 |
 | [skillscope](https://github.com/delevski/skillscope) | TypeScript | 0 | Updated 2026-11-12 |
 | [finesse](https://github.com/delevski/finesse) | TypeScript | 0 | Updated 2026-11-12 |
 | [protfolio](https://github.com/delevski/protfolio) | TypeScript | 1 | Updated 2026-11-11 |
-| [agent-office-demo](https://github.com/delevski/agent-office-demo) | JavaScript | 1 | Updated 2026-11-10 |
 
-<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-11-12</sub>
+<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-11-13</sub>
 <!-- AUTO-PROJECTS:END -->
 
 ## Tech stack
