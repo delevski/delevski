@@ -67,14 +67,14 @@ class OrDelevski:
 <!-- AUTO-PROJECTS:START -->
 | Project | Language | Stars | Activity |
 |---|---:|---:|---|
-| [profolio-reel](https://github.com/delevski/profolio-reel) | TypeScript | 0 | Updated 2026-11-18 |
+| [profolio-reel](https://github.com/delevski/profolio-reel) | TypeScript | 0 | Updated 2026-11-19 |
+| [agent-office-demo](https://github.com/delevski/agent-office-demo) | JavaScript | 1 | Updated 2026-11-19 |
 | [RAG-test](https://github.com/delevski/RAG-test) | TypeScript | 0 | Updated 2026-11-18 |
-| [agent-office-demo](https://github.com/delevski/agent-office-demo) | JavaScript | 1 | Updated 2026-11-18 |
-| [finesse](https://github.com/delevski/finesse) | TypeScript | 3 | Updated 2026-11-17 |
-| [ShortiGo](https://github.com/delevski/ShortiGo) | Dart | 3 | Updated 2026-11-15 |
-| [chefli](https://github.com/delevski/chefli) | Dart | 0 | Updated 2026-11-13 |
+| [protfolio](https://github.com/delevski/protfolio) | TypeScript | 1 | Updated 2026-11-18 |
+| [chefli_agents](https://github.com/delevski/chefli_agents) | Python | 0 | Updated 2026-11-18 |
+| [locksmithruslan-redesign](https://github.com/delevski/locksmithruslan-redesign) | HTML | 0 | Updated 2026-11-18 |
 
-<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-11-18</sub>
+<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-11-19</sub>
 <!-- AUTO-PROJECTS:END -->
 
 ## Tech stack
