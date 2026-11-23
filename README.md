@@ -67,14 +67,14 @@ class OrDelevski:
 <!-- AUTO-PROJECTS:START -->
 | Project | Language | Stars | Activity |
 |---|---:|---:|---|
-| [profolio-reel](https://github.com/delevski/profolio-reel) | TypeScript | 0 | Updated 2026-11-22 |
+| [profolio-reel](https://github.com/delevski/profolio-reel) | TypeScript | 0 | Updated 2026-11-23 |
+| [bridgewise-demo](https://github.com/delevski/bridgewise-demo) | HTML | 0 | Updated 2026-11-23 |
 | [agent-office-demo](https://github.com/delevski/agent-office-demo) | JavaScript | 1 | Updated 2026-11-21 |
-| [bridgewise-demo](https://github.com/delevski/bridgewise-demo) | HTML | 0 | Updated 2026-11-20 |
 | [RAG-test](https://github.com/delevski/RAG-test) | TypeScript | 0 | Updated 2026-11-18 |
 | [protfolio](https://github.com/delevski/protfolio) | TypeScript | 1 | Updated 2026-11-18 |
 | [chefli_agents](https://github.com/delevski/chefli_agents) | Python | 0 | Updated 2026-11-18 |
 
-<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-11-22</sub>
+<sub>Auto-updated from public GitHub repositories. Last refreshed: 2026-11-23</sub>
 <!-- AUTO-PROJECTS:END -->
 
 ## Tech stack
